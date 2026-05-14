@@ -1,0 +1,11 @@
+Assets/Flatten_Scarf/flatten_scarf_0.35.usd
+Assets/Flatten_Scarf/flatten_scarf_0.36.usd
+Assets/Flatten_Scarf/flatten_scarf_0.37.usd
+Assets/Flatten_Scarf/flatten_scarf_0.38.usd
+Assets/Flatten_Scarf/flatten_scarf_0.39.usd
+Assets/Flatten_Scarf/flatten_scarf_0.40.usd
+Assets/Flatten_Scarf/flatten_scarf_0.41.usd
+Assets/Flatten_Scarf/flatten_scarf_0.42.usd
+Assets/Flatten_Scarf/flatten_scarf_0.43.usd
+Assets/Flatten_Scarf/flatten_scarf_0.44.usd
+Assets/Flatten_Scarf/flatten_scarf_0.45.usd

@@ -1,0 +1,4 @@
+Assets/**
+Data/**
+**/__pycache__/
+**/logs/**
