@@ -13,7 +13,7 @@ Heterogeneous Object Interactions
     <a href="https://github.com/YzmYalier/HeteroGenManip" target="_blank">
     <img src="https://img.shields.io/badge/Code-Github-blue" alt="Github Code"/></a>
     <a href="https://huggingface.co/datasets/wayrise/DexGarmentLab/tree/main" target="_blank">
-Z    <img src="https://img.shields.io/badge/Data-HuggingFace-yellow" alt="HuggingFace Data"/></a>
+    <img src="https://img.shields.io/badge/Data-HuggingFace-yellow" alt="HuggingFace Data"/></a>
 </div>
 
 ![teaser](doc/teaser.png)
